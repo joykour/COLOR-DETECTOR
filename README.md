@@ -6,6 +6,6 @@ This repo has three files.
 2. CSV file
 3. Input image
 
-#TO RUN THE CODE
+# TO RUN THE CODE
 
 python color_detection.py -i <image-filename.jpg/jpeg>
