@@ -1,11 +1,11 @@
 # COLOR-DETECTOR
-Python code using open-cv to detect colors in the picture.
+Python code using OpenCV to detect colors in the picture.
 
-This repo has three files.
-1. Python file
-2. CSV file
-3. Input image
+This repo contains:
+1. Attributes - contain CSV files
+2. Images     - Contain Images
+3. Src file   - Main file
 
 # TO RUN THE CODE
 
-python color_detection.py -i <image-filename.jpg/jpeg>
+python3 color_detection.py 
